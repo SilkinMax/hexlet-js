@@ -1,1 +1,2 @@
-console.log(Math.sqrt(256) + 100);
+import _ from 'lodash'
+console.log(_.last(['one', 'two']));
